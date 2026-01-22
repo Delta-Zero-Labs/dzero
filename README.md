@@ -2,7 +2,7 @@
 
 ![demo](demo.gif)
 
-A small experiment in single-pass boundary execution showing per-record runtime invariant to the number of compiled obligations.
+Demonstrating fused semantic execution: a paradigm shift where rule evaluation cost remains invariant to policy complexity, solving the O(N×M) scaling bottleneck in APIs, AI, and observability systems.
 The behavior is the point.
 
 ---
